@@ -20,8 +20,7 @@ const TAB_DATA = [
         <li>Mobile Development: React Native, Expo Go</li>
         <li>DevOps & Tools: Git, AWS, Monorepo, Nx, Vercel, Render</li>
         <li>
-          Other Skills: Agile methodologies, problem-solving, debugging,
-          performance optimization
+          Other Skills: Problem-solving, debugging, performance optimization
         </li>
       </ul>
     ),
