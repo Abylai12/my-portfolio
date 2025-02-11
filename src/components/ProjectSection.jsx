@@ -9,7 +9,7 @@ const projectsData = [
     id: 1,
     title: "Chat Website",
     description:
-      "I developed a real-time chat application using Next.js, Node.js, and Express, with Socket.io for real-time communication. The project integrates JWT authentication with cookies for secure user login and session management. The front-end is styled using DaisyUI, providing a clean and responsive user interface. The application stores user data and messages in MongoDB, ensuring scalable and efficient data management. This project demonstrates my ability to build full-stack applications with seamless real-time interactions, robust authentication, and modern front-end and back-end technologies I've provided a preview link and the GitHub source code link on hover of the image.",
+      "I developed a real-time chat application using Next.js, Node.js, and Express, with Socket.io for real-time communication. The project integrates JWT authentication with cookies for secure user login and session management. The front-end is styled using DaisyUI, providing a clean and responsive user interface. The application stores user data and messages in MongoDB, ensuring scalable and efficient data management. This project demonstrates my ability to build full-stack applications with seamless real-time interactions, robust authentication, and modern front-end and back-end technologies I've provided a preview link and the GitHub source code link on hover of the image. Due to the use of serverless functions, there may be slight delays during cold starts",
     image: "/images/projects/1.png",
     tag: ["All", "Web"],
     gitUrl: "https://github.com/Abylai12/Web-chat",
@@ -19,7 +19,7 @@ const projectsData = [
     id: 2,
     title: "Netflix clone Website",
     description:
-      "I created a Netflix clone website using Next.js, Node.js, and Express, integrating the TMDB API to fetch movie and TV show data. The app features JWT authentication for secure user login, and stores data such as search history in MongoDB. The front-end is styled with Tailwind CSS, providing a clean and responsive interface. This project demonstrates my ability to build full-stack applications with third-party API integration, secure authentication, and modern web technologies. I've provided a preview link and the GitHub source code link on hover of the image.",
+      "I created a Netflix clone website using Next.js, Node.js, and Express, integrating the TMDB API to fetch movie and TV show data. The app features JWT authentication for secure user login, and stores data such as search history in MongoDB. The front-end is styled with Tailwind CSS, providing a clean and responsive interface. This project demonstrates my ability to build full-stack applications with third-party API integration, secure authentication, and modern web technologies. I've provided a preview link and the GitHub source code link on hover of the image. Due to the use of serverless functions, there may be slight delays during cold starts",
     image: "/images/projects/2.png",
     tag: ["All", "Web"],
     gitUrl: "https://github.com/Abylai12/netflix-clone",
@@ -29,7 +29,7 @@ const projectsData = [
     id: 3,
     title: "E-commerce Application",
     description:
-      "I built a robust e-commerce platform using Next.js, Node.js, and Express, with PostgreSQL for a strong database structure, including complex calculations for coupons, quantity discounts, and more. To enhance performance, I utilized Redis for caching featured products. The platform integrates Stripe for secure payments and includes full JWT authentication for user sessions. The front-end is styled with Tailwind CSS, offering a modern, responsive interface for a seamless shopping experience. I've provided a preview link and the GitHub source code link on hover of the image.",
+      "I built a robust e-commerce platform using Next.js, Node.js, and Express, with PostgreSQL for a strong database structure, including complex calculations for coupons, quantity discounts, and more. To enhance performance, I utilized Redis for caching featured products. The platform integrates Stripe for secure payments and includes full JWT authentication for user sessions. The front-end is styled with Tailwind CSS, offering a modern, responsive interface for a seamless shopping experience. I've provided a preview link and the GitHub source code link on hover of the image. Due to the use of serverless functions, there may be slight delays during cold starts",
     image: "/images/projects/3.png",
     tag: ["All", "Web"],
     gitUrl: "https://github.com/Abylai12/Online-shop-by-Postgre",
@@ -39,7 +39,7 @@ const projectsData = [
     id: 4,
     title: "Ticket booking website",
     description:
-      "I developed a ticket booking website for local concerts using Next.js and GraphQL for efficient data fetching. This project marked my first experience with CI/CD pipelines, unit testing (using Jest), and end-to-end testing (with Cypress), ensuring a high-quality, reliable application. The platform includes a comprehensive admin control panel for managing events, including the ability to add and update events, and control the ticket buying process. The system integrates MongoDB with a well-designed ERD for optimized data storage. Users can purchase tickets, generate QR codes, and easily cancel their tickets. Additionally, I implemented Cron jobs for various automated tasks, and the front-end is styled with Tailwind CSS to deliver a responsive and user-friendly experience.",
+      "I developed a ticket booking website for local concerts using Next.js and GraphQL for efficient data fetching. This project marked my first experience with CI/CD pipelines, unit testing (using Jest), and end-to-end testing (with Cypress), ensuring a high-quality, reliable application. The platform includes a comprehensive admin control panel for managing events, including the ability to add and update events, and control the ticket buying process. The system integrates MongoDB with a well-designed ERD for optimized data storage. Users can purchase tickets, generate QR codes, and easily cancel their tickets. Additionally, I implemented Cron jobs for various automated tasks, and the front-end is styled with Tailwind CSS to deliver a responsive and user-friendly experience. Due to the use of serverless functions, there may be slight delays during cold starts",
     image: "/images/projects/4.png",
     tag: ["All", "Web"],
     gitUrl: "/",
