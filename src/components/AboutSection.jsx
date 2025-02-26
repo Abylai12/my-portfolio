@@ -9,16 +9,16 @@ const TAB_DATA = [
       <ul className="list-disc pl-2">
         <li>
           Frontend: JavaScript, TypeScript, React, Next.js, HTML, CSS, Tailwind
-          CSS, Bootstrap, Daisy UI, Shadcn
+          CSS, Bootstrap, Daisy UI, Shadcn UI
         </li>
         <li>
-          Backend: Node.js, Express.js, Java, Spring Boot, RESTful APIs,
+          Backend: Golang, Node.js, Express.js, Java, Spring Boot, RESTful APIs,
           GraphQL, Apollo, Socket.io
         </li>
         <li>Databases: PostgreSQL, MongoDB, Redis</li>
         <li>Testing: Cypress, Jest</li>
         <li>Mobile Development: React Native, Expo Go</li>
-        <li>DevOps & Tools: Git, AWS, Monorepo, Nx, Vercel, Render</li>
+        <li>DevOps & Tools: Git, Docker AWS, Monorepo, Nx, Vercel, Render</li>
         <li>
           Other Skills: Problem-solving, debugging, performance optimization
         </li>
@@ -30,8 +30,8 @@ const TAB_DATA = [
     id: "education",
     content: (
       <ul className="list-disc pl-2">
-        <li>Fullstack Academy of Code</li>
-        <li>University of California, Santa Cruz</li>
+        <li>Fullstack Academy of Pinecone</li>
+        <li>Pinecone Academy</li>
       </ul>
     ),
   },

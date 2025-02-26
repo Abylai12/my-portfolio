@@ -27,7 +27,7 @@ const projectsData = [
   },
   {
     id: 3,
-    title: "E-commerce Application",
+    title: "E-commerce Web",
     description:
       "I built a robust e-commerce platform using Next.js, Node.js, and Express, with PostgreSQL for a strong database structure, including complex calculations for coupons, quantity discounts, and more. To enhance performance, I utilized Redis for caching featured products. The platform integrates Stripe for secure payments and includes full JWT authentication for user sessions. The front-end is styled with Tailwind CSS, offering a modern, responsive interface for a seamless shopping experience. I've provided a preview link and the GitHub source code link on hover of the image. Due to the use of serverless functions, there may be slight delays during cold starts",
     image: "/images/projects/3.png",
@@ -55,6 +55,16 @@ const projectsData = [
     tag: ["All", "Mobile"],
     gitUrl: "/",
     previewUrl: "/",
+  },
+  {
+    id: 6,
+    title: "Online-shop Web",
+    description:
+      "I developed an online shop web application using the MERN stack, implementing authentication, product management, and a wishlist feature. The app includes JWT authentication for secure user login, allowing users to save products and manage their wishlist effortlessly. This project demonstrates my ability to build scalable, secure, and user-friendly web applications using modern technologies.",
+    image: "/images/projects/6.png",
+    tag: ["All", "Web"],
+    gitUrl: "https://github.com/Abylai12/e-commerce",
+    previewUrl: "https://e-commerce-5uub.vercel.app/dashboard",
   },
 ];
 
